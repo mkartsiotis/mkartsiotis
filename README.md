@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 <!--
 **mkartsiotis/mkartsiotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
